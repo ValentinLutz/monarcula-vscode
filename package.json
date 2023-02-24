@@ -1,0 +1,21 @@
+{
+  "name": "monarcula",
+  "displayName": "monarcula",
+  "description": "A dark theme inspired by Monokai.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monarcula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monarcula-color-theme.json"
+      }
+    ]
+  }
+}

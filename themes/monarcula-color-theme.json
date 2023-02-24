@@ -1,0 +1,48 @@
+{
+	"name": "Monarcula",
+	"colors": {
+		"activityBar.background": "#2b2d30",
+		"activityBar.border": "#1e1f22",
+		"activityBar.activeBackground": "#373a3f", // todo
+		// "activityBarBadge.background": "#77a4e8",
+		// "button.background": "#77a4e8",
+		"titleBar.activeBackground": "#2b2d30",
+		"titleBar.inactiveBackground": "#2b2d30",
+		"titleBar.border": "#1e1f22",
+		"editor.background": "#1e1f22",
+		// "editor.foreground": "#fdf9f3",
+		"menu.background": "#373a3f",
+		"statusBar.background": "#2b2d30",
+		"statusBar.border": "#1e1f22",
+		"sideBar.background": "#242628",
+		"tab.activeBackground": "#1e1f22",
+		"tab.border": "#1e1f22",
+	},
+	"tokenColors": [
+		{
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#eb6288"
+			}
+		},
+		{
+			"scope": "variable",
+			"settings": {
+				// "foreground": "#fdf9f3"
+			}
+		},
+		{
+			"scope": "support.function",
+			"settings": {
+				"foreground": "#a9dc76"
+			}
+		},
+		{
+			"scope": "string",
+			"settings": {
+				"foreground": "#f4d966"
+			}
+		}
+	],
+	"semanticHighlighting": true,
+}
