@@ -2,6 +2,9 @@
   "name": "monarcula",
   "displayName": "monarcula",
   "description": "A dark theme inspired by Monokai.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValentinLutz/monarcula-vscode"},
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
